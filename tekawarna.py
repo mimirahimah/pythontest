@@ -23,3 +23,4 @@ while True:
 
 print('YEAAHHHH.....warna saya ialah: ' + warna[generator])
 print('********************** TAHNIAH **********************')
+break
